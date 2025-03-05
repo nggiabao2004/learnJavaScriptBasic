@@ -1,6 +1,8 @@
 //console
+alert('Hello World');
 console.log('Day la dong note');
 console.log(123);
+console.log(true);
 
 var hi= 'hello';
 console.log(hi);
