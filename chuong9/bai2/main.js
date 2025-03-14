@@ -37,9 +37,9 @@ function run(fruits) {
             result = "This is an Apple";
             break;
         default:
-            result = "Khong co"
+            result = "ERROR"
     }
     return result;
 }
 console.log(run("Apple")); //This is an Apple
-console.log(run("Cake")); //Khong co
+console.log(run("Cake")); //ERROR
